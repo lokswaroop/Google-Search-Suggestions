@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.container {
+}
+.logo {
+  height: 50px;
+  width: 100px;
+  text-align: center;
+}
+.card {
+}
+.con {
+  display: flex;
+}
